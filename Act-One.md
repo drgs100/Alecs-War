@@ -8,6 +8,10 @@ At St Julien they recieve some reinforcement straight off the boat.
 
 The Leutenant brings the unit some new recruits some one needs to take charge and intergrate them.
 
+Buying supplies off farmers.
+
+Letters and parcels arrive, who gets what. Time for trade. 
+
 ## Event Two - Fatigues
 
 Go out with the platoon and dig some trenches and machine gun posts, wait until morning and march back to St Julien. 
@@ -17,9 +21,13 @@ Go out with the platoon and dig some trenches and machine gun posts, wait until 
 
 ## Event Three - The Green Mist
 
+The gas attack is started by roumur and then a dead Frenchman. 
+
 ## Event Four - Barrage Begins
 
 ## Event Five - Halt the German Advance
+
+Large amounts of heavy fighting, cut off from communications. Runners needed. Finally will be all killed by a shell 
 
 ## Event XX - the destruction of Ypres and all surrounding countryside. 
 

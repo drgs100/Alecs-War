@@ -1,5 +1,6 @@
 # To Do List 
 
+-[ ] Email players
 -[ ] Write Act One
 -[ ] Write Act Two
 -[ ] Write Act Three
