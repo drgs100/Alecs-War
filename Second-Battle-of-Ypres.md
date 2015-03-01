@@ -12,22 +12,28 @@ Because this is a roleplaying game we can to play a little with reality. The gam
 
 ## Structure of the Game
 
-### The Plege
+### The Plege (Act One)
 
 'Time: 3/5th.'
 
 This is the set up, the bulk of the game will be here. The most important part is to get the feel for the characters. 
 
+Two groups, first are experienced, some taking parting in the race to the sea other joing more recently. The second group will be the new recruits, Kitchener's Army, and it will be the Leuitennants job to bring them up to speed. 
+
+* Gas attach. Including the roumours, and the acrid taste and the hellish appearance. 
+* Digging gun emplacement and helping dig trenches. 
 
 
-### The Turn
+### The Turn (Act Two)
 
 'Time: 1/5th.'
 
 Something is wrong, the platoon doesn't die. At first it will seem like luck but after awhile it will start to become rediculous. 
 
 
-### The Prestige
+### The Prestige (Act Three)
+
+The hospital. We find out who the protagonist is, we find that the rest of the platoon are just figments or ghosts. 
 
 'Time: < 1/5th.'
 
