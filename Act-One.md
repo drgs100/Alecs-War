@@ -21,9 +21,11 @@ Go out with the platoon and dig some trenches and machine gun posts, wait until 
 
 ## Event Three - The Green Mist
 
-The gas attack is started by roumur and then a dead Frenchman. 
+The gas attack is started by roumur and then a dead Frenchman. After half an hour of 
 
 ## Event Four - Barrage Begins
+
+
 
 ## Event Five - Halt the German Advance
 
