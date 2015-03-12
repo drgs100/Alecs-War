@@ -46,7 +46,7 @@ January. German forces begin to dig extensive trench networks.
 
 10-13 March. Battle of Neuve Chapelle. British tactical success. 
 
-18 April 1915. Reinforcements arrive in St Julien.
+20 April 1915. Reinforcements arrive in St Julien.
 
 
 

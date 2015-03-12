@@ -1,11 +1,11 @@
 # To Do List 
 
--[ ] Email players
+-[x] Email players
 -[ ] Write Act One
 -[ ] Write Act Two
 -[ ] Write Act Three
 -[ ] Character Sheets
--[ ] Time line
+-[x] Timeline
 -[ ] Details of Regiment
 
 
