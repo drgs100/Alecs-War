@@ -40,6 +40,8 @@
 
 24-25 December. Through December unofficial truces are observed allowing the dead to be recovered and some fraternisation occurs.
 
+26 December. BEF divided into First and Second Armies. 
+
 ## 1915
 
 January. German forces begin to dig extensive trench networks. 
