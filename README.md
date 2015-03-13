@@ -5,6 +5,13 @@ Done:
 - [x] Timeline
 - [x] Background
 
+To do:
+
+- [ ] Email players
+- [ ] Look at slang, equipment and 
+- [ ] Finish act one
+- [ ] Start act two
+
 Links:
 
 [British Army uniform and equipment in World War I](http://en.wikipedia.org/wiki/British_Army_uniform_and_equipment_in_World_War_I)
