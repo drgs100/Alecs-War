@@ -5,7 +5,7 @@
 * Humanities (poetry):  3
 * Heavy weapons (machine gun): 2
 
-**Steve.** Young officer. Caring but warn. Hates it all but must keep it up for the men.
+**Steve.** Young officer. Caring but warn. Hates it all but must keep it up for the men. Cambridge degree Classics (1st class). 
 
 * Humanities (Classics): 3
 * Language (Greek): 2
@@ -15,7 +15,7 @@
 **George.** Gunner, very technical.
 
 * Heavy weapons: 3
-* Repair/build (mechanical): 1
+* Repair/build (mechanical): 2
 
 **Sian.** Sergeant.
 
