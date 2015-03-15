@@ -9,10 +9,14 @@
 
 - [x] Email players and assign character
 - [x] Hill 60 (info for the vets) - will tell them in chracter
-- [ ] Look at slang and equipment
+- [x] Look at slang and equipment
+
+## Monday
+
 - [ ] Finish act one
 - [ ] Act one NPCs
-- [ ] Start act two
+- [ ] Finish act two
+- [ ] Finish act three
 
 ## Links
 
