@@ -7,8 +7,8 @@
 
 ## Saturday
 
-- [ ] Email players and assign character
-- [ ] Hill 60 (info for the vets)
+- [x] Email players and assign character
+- [x] Hill 60 (info for the vets) - will tell them in chracter
 - [ ] Look at slang and equipment
 - [ ] Finish act one
 - [ ] Act one NPCs
