@@ -13,7 +13,7 @@
 
 ## Monday
 
-- [ ] Finish act one
+- [x] Finish act one
 - [ ] Battle time line
 - [ ] Act one & two NPCs and enemies
 - [ ] Character sheets
