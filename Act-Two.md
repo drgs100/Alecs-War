@@ -2,7 +2,7 @@
 
 ## Event xx - New attack. 
 
-New wave of attack, more death. This is where it starts to go strange. At least a couple of the soldiers will follow a tank. 
+New wave of attack, more death. This is where it starts to go strange. Events from the wrong time keep happening, at least a couple of the soldiers will follow a tank, the Germans use a flame thrower, even some British use of gas. 
 
 ## Event xx - Withdraw back through Ypres
 
