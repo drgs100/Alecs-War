@@ -1,36 +1,31 @@
 # Act One
 
-The unit is resting and recuperating in the Belgian village of St Julien after taking heavy casualities in combat on Hill 60. The unit is a machine gun detachment of the King's Own Yorkshire Light Infantry (KOYLI) made up of veterans of the race to the sea and some new bodies. Most of the rest of their company has been wiped out. 
-
-At St Julien they recieve some reinforcement straight off the boat. 
+The unit is resting in the Belgian village of St Julien after taking heavy causalities in combat on Hill 60. The unit is a remnants of machine gun detachment of the King's Own Yorkshire Light Infantry (KOYLI) made up of veterans of the race to the sea and some new bodies. Most of the rest of their company has been wiped out. 
 
 ## Event One - New recruits
 
-The Leutenant brings the unit some new recruits some one needs to take charge and intergrate them.
+The Major brings two new gunners to the Lieutenant and tells him he will have get ready to relieve a section soon. 
 
-Buying supplies off farmers.
+## Event Two - Head to the Front
 
-Letters and parcels arrive, who gets what. Time for trade. 
+Head to the front through plenty of fire. Unit gets pinned by sniper fire whilst trying to make it to the trench, have to extract themselves. 
 
-## Event Two - Fatigues
+## Events Three - Return to St Julien
 
-Go out with the platoon and dig some trenches and machine gun posts, wait until morning and march back to St Julien. 
-
-* Sergent shouting at them
-* First time under fire
-
-## Event Three - The Green Mist
-
-The gas attack is started by roumur and then a dead Frenchman. After half an hour of 
+Relief for newbies, parcels, buying stuff off farmers (they are just moving out). Parade. Billet.
 
 ## Event Four - Barrage Begins
 
+Woken in the middle of the night by barrage. 
 
+## Event Three - The Green Mist
+
+The gas attack is started by rumour and then a dead Frenchman.
 
 ## Event Five - Halt the German Advance
 
-Large amounts of heavy fighting, cut off from communications. Runners needed. Finally will be all killed by a shell 
+Lieutenant has to rally the units at the farm and lead counter attack to stop the German assault. Large amounts of heavy fighting, cut off from communications. Runners needed. Some will be hit, probably killed, certainly out of action. 
 
-## Event XX - the destruction of Ypres and all surrounding countryside. 
+## Event Six - Relief gas explained and gear provided
 
-## Event XX - Section is relived and they march back through the wastelands
+Everyone back in action (bit bloodied but serviceable). Rumour about pissing on handkerchiefs to counter act the gas. 
