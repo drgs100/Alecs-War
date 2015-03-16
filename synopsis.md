@@ -8,7 +8,7 @@ It is 2015 and so far I have seen little real rememberance and understanding of 
 
 So I am taking the opportunity at our biannual geekend to do my bit. Our neet up will be in March 2015 so we will set the game approx imatly 100 years before at the Second Battle of Ypres, where the German army first ues gas on the Western Frount.
 
-Because this is a roleplaying game we can to play a little with reality. The game will focus on a platoon caught in heavy action near the village of St. Julien but something unusual will happen to the platoon.
+Because this is a roleplaying game we can to play a little with reality. The game will focus on a section caught in heavy action near the village of St. Julien but something unusual will happen to the platoon.
 
 ## Structure of the Game
 
