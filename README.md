@@ -14,7 +14,7 @@
 ## Monday
 
 - [ ] Finish act one
-- [ ] Act one & two NPCs
+- [ ] Act one & two NPCs and enemies
 - [ ] Character sheets
 - [ ] Finish act two
 - [ ] Finish act three
