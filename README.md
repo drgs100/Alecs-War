@@ -13,10 +13,13 @@
 
 ## Monday
 
-- [ ] Finish act one
-- [ ] Act one NPCs
+- [x] Finish act one
+- [ ] Battle time line
+- [ ] Act one & two NPCs and enemies
+- [ ] Character sheets
 - [ ] Finish act two
 - [ ] Finish act three
+- [ ] Act three NPCs
 
 ## Links
 
@@ -27,50 +30,7 @@
 
 [The Machine Gun Corps](http://www.1914-1918.net/mgc.htm)
 
-## Old to do list 
-
-- [x] Email players
-- [ ] Write Act One
-- [ ] Write Act Two
-- [ ] Write Act Three
-- [ ] Character Sheets
-- [x] Timeline
-- [ ] Details of Regiment
-
-
-
-
-PCs
-- [ ] Leutenant
-- [ ] Christian
-- [ ] Charlie
-
-
-
-
-
-NPCs
+## NPCs
 - [ ] German soldiers
 - [ ] Officers
 - [ ] Beligian farmer
-
-
-
-
-
-## Maps 
-- [ ] Ypres Salient
-- [ ] St Julien
-
-
-
-
-
-## Background for players
-History of the conflict from the characters point of view
-- [x] Race to the Sea
-- [ ] Hill 60
-- [ ] March to the front
-- [ ] Slang notes
-- [ ] How soldiers spend their time, food, drink, letters, cards, finding a place to billet
-- [ ] King's Own Yorkshire Light Infantry
