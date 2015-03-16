@@ -34,4 +34,3 @@
 - [ ] German soldiers
 - [ ] Officers
 - [ ] Beligian farmer
-- 
