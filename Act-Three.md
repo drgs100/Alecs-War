@@ -10,6 +10,7 @@ The Major brings two new gunners to the Lieutenant and tells him he will have ge
 
 Head to the front through plenty of fire. Unit gets pinned by sniper fire whilst trying to make it to the trench, have to extracte themselves. 
 
-## Take players out one by one and give them new characters, except the last player who died. 
+## Take players out one by one and give them new characters, except the last player who survives. 
 
-I have no idea how the players will deal with this or how to bring it to an end.
+As players die they are taken out of the room and it is explained they are members of staff at a hospice looking after a number of old soldiers. They then reenter the room but cannot communicate their new understanding with surviving players. Their new job is to keep the survivor alive, but they don't know who it is. 
+

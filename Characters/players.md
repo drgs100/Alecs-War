@@ -23,6 +23,8 @@ Good/Bad Luck: 3/11
 
 **Steve.** Young officer. Caring but warn. Hates it all but must keep it up for the men. Cambridge degree Classics (1st class). Thomas.
 
+cw9
+
 * Humanities (Classics): 3
 * Language (Greek): 2
 * Language (Latin): 2
@@ -32,6 +34,8 @@ Good/Bad Luck: 3/11
 * Sport (cricket): 2
 
 **Mike.** Sergeant. Ole Bill
+
+cw2
 
 * Heavy weapons (machine gun): 2
 * Influence: 1
@@ -43,6 +47,8 @@ Good/Bad Luck: 3/11
 
 **Siân.** Veteran. Fought in the Boer war. Pops. 
 
+cw6
+
 * Language (Afrikaans): 2
 * Language ("African"): 1
 * Heavy weapons (machine gun): 1
@@ -53,12 +59,16 @@ Good/Bad Luck: 3/11
 
 **Oli.** Pioneer, telephone engineer.
 
+cw7
+
 * Repair/build (electrical): 3
 * Repair/build (mechanical): 2
 * Stealth: 2
 * Demolitions: 2
 
 **Greg.** Charlie. 
+
+cw8
 
 * Animal husbandry (horses): 2
 * Medical (veterinary): 1
@@ -68,11 +78,15 @@ Good/Bad Luck: 3/11
 
 **George.** Gunner, very technical. Smith 70
 
+cw10
+
 * Heavy weapons: 3
 * Repair/build (mechanical): 2
 * Mathmatics: 2 
 
 **Ed.** Former chemistry teach. Secondary gunner. 
+
+cw11
 
 * Science (chemistry):  3
 * Heavy weapons (machine gun): 2
