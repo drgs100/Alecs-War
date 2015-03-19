@@ -9,7 +9,7 @@
 * [After second attack](http://meh.yellowgrey.com/geekend/tactical-map_after-gas.png)
 
 ## Kitchener's wood area
-* [Small scale](http://meh.yellowgrey.com/geekend/geekend/small-scale.png)
+* [Small scale](http://meh.yellowgrey.com/geekend/small-scale.png)
 
 ## Other maps
 * [The Battle of St Julien](http://cefresearch.ca/matrix/Nicholson/Sketches/sketch11.jpg)
