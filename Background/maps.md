@@ -8,6 +8,9 @@
 * [After attack](http://meh.yellowgrey.com/geekend/tactical-map_after-gas.png)
 * [After second attack](http://meh.yellowgrey.com/geekend/tactical-map_after-gas.png)
 
+## Kitchener's wood area
+* [Small scale](http://meh.yellowgrey.com/geekend/geekend/small-scale.png)
+
 ## Other maps
 * [The Battle of St Julien](http://cefresearch.ca/matrix/Nicholson/Sketches/sketch11.jpg)
 * [St. Julien and Kitcheners Wood - showing troop placements](http://www.calgaryhighlanders.com/history/10th/history/stjulien.htm)
