@@ -7,7 +7,6 @@
 * [Pre-attack](http://meh.yellowgrey.com/geekend/tactical-map_before-gas.png)
 * [After attack](http://meh.yellowgrey.com/geekend/tactical-map_after-gas.png)
 * [After second attack](http://meh.yellowgrey.com/geekend/tactical-map_after-gas.png)
-* [Small scale](http://meh.yellow.com/geekend/small-scale.png)
 
 ## Kitcheners wood area
 * [Small scale](http://meh.yellowgrey.com/geekend/small-scale.png)
