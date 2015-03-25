@@ -18,14 +18,14 @@ Relief for newbies, parcels, buying stuff off farmers (they are just moving out)
 
 Woken in the middle of the night by barrage. 
 
-## Event Three - The Green Mist
+## Event Five - The Green Mist
 
 The gas attack is started by rumour and then a dead Frenchman.
 
-## Event Five - Halt the German Advance
+## Event Six - Halt the German Advance
 
 Lieutenant has to rally the units at the farm and lead counter attack to stop the German assault. Large amounts of heavy fighting, cut off from communications. Runners needed. Some will be hit, probably killed, certainly out of action. 
 
-## Event Six - Relief gas explained and gear provided
+## Event Seven - Relief gas explained and gear provided
 
 Everyone back in action (bit bloodied but serviceable). Rumour about pissing on handkerchiefs to counter act the gas. 
