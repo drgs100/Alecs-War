@@ -35,4 +35,4 @@ Something is wrong, the platoon doesn't die. At first it will seem like luck but
 
 The hospital. We find out who the protagonist is, we find that the rest of the platoon are just figments or ghosts. 
 
-*Time: 1/5th.'*
+*Time: 1/5th.*
