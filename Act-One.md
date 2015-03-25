@@ -4,7 +4,7 @@ The unit is resting in the Belgian village of St Julien after taking heavy causa
 
 ## Event One - New recruits
 
-The Major brings two new gunners to the Lieutenant and tells him he will have get ready to relieve a section soon. 
+The Major brings two new gunners to the Lieutenant and tells him he will have get ready to relieve a section soon. Sargent shouts at them.  
 
 ## Event Two - Head to the Front
 
